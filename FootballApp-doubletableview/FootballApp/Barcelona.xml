@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <country id="Germany">
+        <cname>Germany</cname>
+        <person>
+            <name>Marc-Andre ter Stegen</name>
+            <birth>30 April 1992</birth>
+            <position>Goalkeeper</position>
+            <number>NO.01</number>
+            <image>1.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen</url>
+        </person>
+    </country>
+    <country id="Spain">
+        <cname>Spain</cname>
+        <person>
+            <name>Gerard Pique</name>
+            <birth>2 February 1987</birth>
+            <position>Centre-back</position>
+            <number>NO.03</number>
+            <image>3.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9</url>
+        </person>
+        <person>
+            <name>Sergio Busquets</name>
+            <birth>16 July 1988</birth>
+            <position>Defensive midfielder</position>
+            <number>NO.05</number>
+            <image>5.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Sergio_Busquets</url>
+        </person>
+        <person>
+            <name>Denis Suarez</name>
+            <birth>6 January 1994</birth>
+            <position>Midfielder</position>
+            <number>NO.06</number>
+            <image>6.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Denis_Su%C3%A1rez</url>
+        </person>
+        <person>
+            <name>Andres Iniesta</name>
+            <birth>11 May 1984</birth>
+            <position>Midfielder</position>
+            <number>NO.08</number>
+            <image>8.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta</url>
+        </person>
+        <person>
+            <name>Paco Alcacer</name>
+            <birth>30 August 1993</birth>
+            <position>Striker</position>
+            <number>NO.17</number>
+            <image>17.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Paco_Alc%C3%A1cer</url>
+        </person>
+        <person>
+            <name>Jordi Alba</name>
+            <birth>21 March 1989</birth>
+            <position>Left-back</position>
+            <number>NO.18</number>
+            <image>18.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Jordi_Alba</url>
+        </person>
+        <person>
+            <name>Sergi Roberto</name>
+            <birth>7 February 1992 </birth>
+            <position>Full-back / Midfielder</position>
+            <number>NO.20</number>
+            <image>20.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Sergi_Roberto</url>
+        </person>
+    </country>
+    <country id="Croatia">
+        <cname>Croatia</cname>
+        <person>
+            <name>Ivan Rakitic</name>
+            <birth>10 March 1988</birth>
+            <position>Midfielder</position>
+            <number>NO.04</number>
+            <image>4.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Ivan_Rakiti%C4%87</url>
+        </person>
+    </country>
+    <country id="Turkey">
+        <cname>Turkey</cname>
+        <person>
+            <name>Arda Turan</name>
+            <birth>30 January 1987</birth>
+            <position>Attacking midfielder</position>
+            <number>NO.07</number>
+            <image>7.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Arda_Turan</url>
+        </person>
+    </country>
+    <country id="Uruguay">
+        <cname>Uruguay</cname>
+        <person>
+            <name>Luis Suarez</name>
+            <birth>24 January 1987 </birth>
+            <position>Striker</position>
+            <number>NO.09</number>
+            <image>9.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez</url>
+        </person>
+    </country>
+    <country id="Argentina">
+        <cname>Argentina</cname>
+        <person>
+            <name>Lionel Messi</name>
+            <birth>24 June 1987</birth>
+            <position>Forward</position>
+            <number>NO.10</number>
+            <image>10.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Lionel_Messi</url>
+        </person>
+        <person>
+            <name>Javier Mascherano</name>
+            <birth>8 June 1984</birth>
+            <position>Defensive midfielder / Centre-back</position>
+            <number>NO.14</number>
+            <image>14.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Javier_Mascherano</url>
+        </person>
+    </country>
+    <country id="Brazil">
+        <cname>Brazil</cname>
+        <person>
+            <name>Neymar</name>
+            <birth>5 February 1992</birth>
+            <position>Forward</position>
+            <number>NO.11</number>
+            <image>11.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Neymar</url>
+        </person>
+        <person>
+            <name>Rafinha</name>
+            <birth>12 February 1993</birth>
+            <position>Midfielder</position>
+            <number>NO.12</number>
+            <image>12.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Rafinha_(footballer,_born_1993)</url>
+        </person>
+    </country>
+    <country id="Netherlands">
+        <cname>Netherlands</cname>
+        <person>
+            <name>Jasper Cillessen</name>
+            <birth>22 April 1989</birth>
+            <position>Goalkeeper</position>
+            <number>NO.13</number>
+            <image>13.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Jasper_Cillessen</url>
+        </person>
+    </country>
+    <country id="France">
+        <cname>France</cname>
+        <person>
+            <name>Lucas Digne</name>
+            <birth>20 July 1993</birth>
+            <position>Left-back</position>
+            <number>NO.19</number>
+            <image>19.jpeg</image>
+            <url>https://en.wikipedia.org/wiki/Lucas_Digne</url>
+        </person>
+    </country>
+</people>
+
+
+
+
